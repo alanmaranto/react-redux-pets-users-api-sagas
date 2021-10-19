@@ -1,0 +1,4 @@
+export const petTypes = {
+  PET_INCREASED: "PET_INCREASED",
+  PET_DECREASED: "PET_DECREASED",
+};
